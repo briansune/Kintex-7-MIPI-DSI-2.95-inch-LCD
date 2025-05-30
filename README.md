@@ -10,7 +10,11 @@ paypal.me/briansune
 
 # More MIPI DSI LCD examples
 
-Please visit [FPGA-TFT-MIPI-or-DPI](https://briansune.github.io/FPGA-TFT-MIPI-or-DPI/)
+Please visit [FPGA-TFT-MIPI-or-DPI](https://briansune.github.io/FPGA-TFT-MIPI-or-DPI/) or [FPGA-LCD-MIPI-or-DPI](https://briansune.github.io/FPGA-LCD-MIPI-or-DPI/)
+
+# For same grade of LCD but different company
+
+Please visit [2.95" LCD B](https://github.com/briansune/Kintex-7-MIPI-DSI-2.95-inch-LCD-B) 
 
 # Background
 
